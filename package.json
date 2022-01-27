@@ -19,7 +19,7 @@
     "node-sass": "^4.12.0",
     "petalfloat-lzy": "^0.0.1",
     "sass-loader": "^7.3.1",
-    "three": "^0.108.0",
+    "three": "^0.137.0",
     "vue": "^2.5.2",
     "vue-router": "^3.0.1",
     "vuex": "^3.1.1"
