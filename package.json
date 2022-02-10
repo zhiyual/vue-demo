@@ -16,7 +16,7 @@
     "exports-loader": "^0.7.0",
     "hello-lzy": "^0.0.1",
     "imports-loader": "^0.8.0",
-    "node-sass": "^4.12.0",
+    "node-sass": "^7.0.0",
     "petalfloat-lzy": "^0.0.1",
     "sass-loader": "^7.3.1",
     "three": "^0.108.0",
